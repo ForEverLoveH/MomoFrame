@@ -1,0 +1,18 @@
+[L]# 2022-07-26 10:00:31-617  ThreadID:1 >> ProcedureStart流程初始化成功
+[L]# 2022-07-26 10:00:31-625  ThreadID:1 >> ProcedureMain流程初始化成功
+[L]# 2022-07-26 10:00:31-629  ThreadID:1 >> 进入ProcedureStart流程
+[L]# 2022-07-26 10:00:31-713  ThreadID:9 >> 服务器连接成功:127.0.0.1:6666
+[L]# 2022-07-26 10:02:15-966  ThreadID:1 >> ProcedureStart流程初始化成功
+[L]# 2022-07-26 10:02:15-980  ThreadID:1 >> ProcedureMain流程初始化成功
+[L]# 2022-07-26 10:02:15-987  ThreadID:1 >> 进入ProcedureStart流程
+[L]# 2022-07-26 10:02:16-122  ThreadID:8 >> 服务器连接成功:127.0.0.1:6666
+[L]# 2022-07-26 10:02:23-222  ThreadID:1 >> Shutdown Game Framework (Quit)...
+[L]# 2022-07-26 10:05:38-378  ThreadID:1 >> ProcedureStart流程初始化成功
+[L]# 2022-07-26 10:05:38-385  ThreadID:1 >> ProcedureMain流程初始化成功
+[L]# 2022-07-26 10:05:38-390  ThreadID:1 >> 进入ProcedureStart流程
+[L]# 2022-07-26 10:05:38-474  ThreadID:5 >> 服务器连接成功:127.0.0.1:6666
+[L]# 2022-07-26 10:06:27-290  ThreadID:1 >> ProcedureStart流程初始化成功
+[L]# 2022-07-26 10:06:27-296  ThreadID:1 >> ProcedureMain流程初始化成功
+[L]# 2022-07-26 10:06:27-299  ThreadID:1 >> 进入ProcedureStart流程
+[L]# 2022-07-26 10:06:27-334  ThreadID:4 >> 服务器连接成功:127.0.0.1:6666
+[L]# 2022-07-26 10:07:02-772  ThreadID:1 >> Shutdown Game Framework (Quit)...

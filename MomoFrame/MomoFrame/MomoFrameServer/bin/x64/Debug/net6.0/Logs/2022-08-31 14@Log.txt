@@ -1,0 +1,11 @@
+[L]# 2022-08-31 14:27:20-601  ThreadID:1 >> ProcedureStart流程初始化成功
+[L]# 2022-08-31 14:27:20-608  ThreadID:1 >> ProcedureMain流程初始化成功
+[L]# 2022-08-31 14:27:20-610  ThreadID:1 >> 进入ProcedureStart流程
+[L]# 2022-08-31 14:27:20-993  ThreadID:1 >> TCPSetver Start...
+[L]# 2022-08-31 14:27:23-678  ThreadID:8 >> 127.0.0.1:55321 正在连接
+[L]# 2022-08-31 14:27:23-679  ThreadID:8 >> 127.0.0.1:55321 连接成功
+[W]# 2022-08-31 14:27:33-481  ThreadID:6 >> 127.0.0.1:55321 已断开连接
+[L]# 2022-08-31 14:36:29-536  ThreadID:1 >> ProcedureStart流程初始化成功
+[L]# 2022-08-31 14:36:29-542  ThreadID:1 >> ProcedureMain流程初始化成功
+[L]# 2022-08-31 14:36:29-543  ThreadID:1 >> 进入ProcedureStart流程
+[L]# 2022-08-31 14:36:29-613  ThreadID:1 >> TCPSetver Start...

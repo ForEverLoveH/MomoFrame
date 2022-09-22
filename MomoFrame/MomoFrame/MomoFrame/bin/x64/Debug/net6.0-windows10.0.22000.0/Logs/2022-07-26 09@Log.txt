@@ -1,0 +1,5 @@
+[L]# 2022-07-26 09:58:06-860  ThreadID:1 >> ProcedureStart流程初始化成功
+[L]# 2022-07-26 09:58:06-867  ThreadID:1 >> ProcedureMain流程初始化成功
+[L]# 2022-07-26 09:58:06-871  ThreadID:1 >> 进入ProcedureStart流程
+[L]# 2022-07-26 09:58:06-980  ThreadID:5 >> 服务器连接成功:127.0.0.1:6666
+[L]# 2022-07-26 09:58:11-057  ThreadID:1 >> Shutdown Game Framework (Quit)...

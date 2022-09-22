@@ -1,0 +1,24 @@
+﻿<Window x:Class="MomoFrame.Windows.WindowView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MomoFrame"
+        xmlns:moUserControl="clr-namespace:MomoFrame.Windows.UserControlView"
+        xmlns:mo="https://handyorg.github.io/handycontrol"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Closing="Window_Closing" Closed="Window_Closed">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0" Grid.RowSpan="2" VerticalScrollBarVisibility="Hidden" HorizontalAlignment="Right" Panel.ZIndex="1">
+            <StackPanel mo:Growl.Token="MainGrowlMsg" VerticalAlignment="Top" Margin="0,10,10,10" ></StackPanel>
+        </ScrollViewer>
+
+        <moUserControl:Log x:Name="MainLogDataList" Grid.Row="0">
+
+        </moUserControl:Log>
+    </Grid>
+</Window>

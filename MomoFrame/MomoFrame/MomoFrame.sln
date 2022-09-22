@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MomoFrame", "MomoFrame\MomoFrame.csproj", "{91411353-249F-4EEE-82DB-7118403CD032}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MomoFrameCommon", "MomoFrameCommon\MomoFrameCommon.csproj", "{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MomoFrameServer", "MomoFrameServer\MomoFrameServer.csproj", "{8712EB39-30F2-4DFF-B301-9BDE95019F98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MProtocol", "MProtocol\MProtocol.csproj", "{57FE5601-A0AE-4421-959D-0EB70A79B053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91411353-249F-4EEE-82DB-7118403CD032}.Debug|x64.ActiveCfg = Debug|x64
+		{91411353-249F-4EEE-82DB-7118403CD032}.Debug|x64.Build.0 = Debug|x64
+		{91411353-249F-4EEE-82DB-7118403CD032}.Debug|x86.ActiveCfg = Debug|x86
+		{91411353-249F-4EEE-82DB-7118403CD032}.Debug|x86.Build.0 = Debug|x86
+		{91411353-249F-4EEE-82DB-7118403CD032}.Release|x64.ActiveCfg = Release|x64
+		{91411353-249F-4EEE-82DB-7118403CD032}.Release|x64.Build.0 = Release|x64
+		{91411353-249F-4EEE-82DB-7118403CD032}.Release|x86.ActiveCfg = Release|x86
+		{91411353-249F-4EEE-82DB-7118403CD032}.Release|x86.Build.0 = Release|x86
+		{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}.Debug|x64.ActiveCfg = Debug|x64
+		{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}.Debug|x64.Build.0 = Debug|x64
+		{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}.Debug|x86.ActiveCfg = Debug|x86
+		{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}.Debug|x86.Build.0 = Debug|x86
+		{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}.Release|x64.ActiveCfg = Release|x64
+		{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}.Release|x64.Build.0 = Release|x64
+		{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}.Release|x86.ActiveCfg = Release|x86
+		{2B6CBDD0-2C53-4D19-9C26-046BA4FD1BE9}.Release|x86.Build.0 = Release|x86
+		{8712EB39-30F2-4DFF-B301-9BDE95019F98}.Debug|x64.ActiveCfg = Debug|x64
+		{8712EB39-30F2-4DFF-B301-9BDE95019F98}.Debug|x64.Build.0 = Debug|x64
+		{8712EB39-30F2-4DFF-B301-9BDE95019F98}.Debug|x86.ActiveCfg = Debug|x86
+		{8712EB39-30F2-4DFF-B301-9BDE95019F98}.Debug|x86.Build.0 = Debug|x86
+		{8712EB39-30F2-4DFF-B301-9BDE95019F98}.Release|x64.ActiveCfg = Release|x64
+		{8712EB39-30F2-4DFF-B301-9BDE95019F98}.Release|x64.Build.0 = Release|x64
+		{8712EB39-30F2-4DFF-B301-9BDE95019F98}.Release|x86.ActiveCfg = Release|x86
+		{8712EB39-30F2-4DFF-B301-9BDE95019F98}.Release|x86.Build.0 = Release|x86
+		{57FE5601-A0AE-4421-959D-0EB70A79B053}.Debug|x64.ActiveCfg = Debug|x64
+		{57FE5601-A0AE-4421-959D-0EB70A79B053}.Debug|x64.Build.0 = Debug|x64
+		{57FE5601-A0AE-4421-959D-0EB70A79B053}.Debug|x86.ActiveCfg = Debug|x86
+		{57FE5601-A0AE-4421-959D-0EB70A79B053}.Debug|x86.Build.0 = Debug|x86
+		{57FE5601-A0AE-4421-959D-0EB70A79B053}.Release|x64.ActiveCfg = Release|x64
+		{57FE5601-A0AE-4421-959D-0EB70A79B053}.Release|x64.Build.0 = Release|x64
+		{57FE5601-A0AE-4421-959D-0EB70A79B053}.Release|x86.ActiveCfg = Release|x86
+		{57FE5601-A0AE-4421-959D-0EB70A79B053}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55821C08-F9E2-45E8-98CD-B50BB804501E}
+	EndGlobalSection
+EndGlobal
