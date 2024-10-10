@@ -150,39 +150,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DYL\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "E:\\nuget\\packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkProject\\MomoFrame(1)\\MomoFrame\\MomoFrame\\MomoFrameServer\\MomoFrameServer.csproj",
+      "projectUniqueName": "E:\\net project\\WorkProject\\MomoFrame\\MomoFrame\\MomoFrame\\MomoFrameServer\\MomoFrameServer.csproj",
       "projectName": "MomoFrameServer",
-      "projectPath": "D:\\WorkProject\\MomoFrame(1)\\MomoFrame\\MomoFrame\\MomoFrameServer\\MomoFrameServer.csproj",
-      "packagesPath": "C:\\Users\\DYL\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkProject\\MomoFrame(1)\\MomoFrame\\MomoFrame\\MomoFrameServer\\obj\\",
+      "projectPath": "E:\\net project\\WorkProject\\MomoFrame\\MomoFrame\\MomoFrame\\MomoFrameServer\\MomoFrameServer.csproj",
+      "packagesPath": "E:\\nuget\\packages",
+      "outputPath": "E:\\net project\\WorkProject\\MomoFrame\\MomoFrame\\MomoFrame\\MomoFrameServer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\DYL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\罗海强\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline .config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "E:\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\WorkProject\\MomoFrame(1)\\MomoFrame\\MomoFrame\\MomoFrameCommon\\MomoFrameCommon.csproj": {
-              "projectPath": "D:\\WorkProject\\MomoFrame(1)\\MomoFrame\\MomoFrame\\MomoFrameCommon\\MomoFrameCommon.csproj"
+            "E:\\net project\\WorkProject\\MomoFrame\\MomoFrame\\MomoFrame\\MomoFrameCommon\\MomoFrameCommon.csproj": {
+              "projectPath": "E:\\net project\\WorkProject\\MomoFrame\\MomoFrame\\MomoFrame\\MomoFrameCommon\\MomoFrameCommon.csproj"
             }
           }
         }
@@ -191,6 +188,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -212,7 +214,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

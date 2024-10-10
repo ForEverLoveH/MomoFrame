@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8lXDN/YmzpDn2KXM3mfrY4m+TUcOPB+1YHiTqdPpPSYbcwnniA7u0OArmAGR0+Q285SIJAdZbYiCvMyi9lhrug==",
+  "dgSpecHash": "aYjW2fhUFHM=",
   "success": true,
-  "projectFilePath": "D:\\WorkProject\\MomoFrame(1)\\MomoFrame\\MomoFrame\\MomoFrameCommon\\MomoFrameCommon.csproj",
+  "projectFilePath": "E:\\net project\\WorkProject\\MomoFrame\\MomoFrame\\MomoFrame\\MomoFrameCommon\\MomoFrameCommon.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DYL\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
-    "C:\\Users\\DYL\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
-    "C:\\Users\\DYL\\.nuget\\packages\\touchsocket\\0.1.4\\touchsocket.0.1.4.nupkg.sha512"
+    "E:\\nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "E:\\nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "E:\\nuget\\packages\\touchsocket\\0.1.4\\touchsocket.0.1.4.nupkg.sha512"
   ],
   "logs": []
 }

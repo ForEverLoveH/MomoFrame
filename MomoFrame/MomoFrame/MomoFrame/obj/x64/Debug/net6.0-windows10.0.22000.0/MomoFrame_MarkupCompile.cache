@@ -4,17 +4,17 @@
 exe
 C#
 .cs
-D:\WorkProject\MomoFrame(1)\MomoFrame\MomoFrame\MomoFrame\obj\x64\Debug\net6.0-windows10.0.22000.0\
+E:\net project\WorkProject\MomoFrame\MomoFrame\MomoFrame\MomoFrame\obj\x64\Debug\net6.0-windows10.0.22000.0\
 MomoFrame
 none
 false
 TRACETRACE;X64;DEBUG;NET;NET6_0;NETCOREAPP
-D:\WorkProject\MomoFrame(1)\MomoFrame\MomoFrame\MomoFrame\App.xaml
+E:\net project\WorkProject\MomoFrame\MomoFrame\MomoFrame\MomoFrame\App.xaml
 21923337785
 
 2711326818
-206716281189
+2061442231526
 Windows\UserControlView\Log.xaml;Windows\WindowView\MainWindow.xaml;
 resources\images\logo.png
-False
+True
 
