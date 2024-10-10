@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MomoFrameServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c98f54124e9ab932a469675af3f5b34942dd546")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a21852712f98880de619431c2aa82fe28a441a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MomoFrameServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MomoFrameServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
